@@ -10,3 +10,6 @@ Projects:
   * The model identifies Potholes of 2 categories, potholes with or without water; This will aid the response of the ADS to the pothole
   * The accuracy of the models gave a 92.50% or 95.83 for MobileNetV2 and InceptionV3 respectively
   * Moddel was evalauted using confusion matrix.
+
+
+There is a code to create environment on linux and install relevant libraries to support your project. 
