@@ -11,5 +11,5 @@ Projects:
   * The accuracy of the models gave a 92.50% or 95.83 for MobileNetV2 and InceptionV3 respectively
   * Moddel was evalauted using confusion matrix.
 
-
+  
 There is a code to create environment on linux and install relevant libraries to support your project. 
