@@ -10,5 +10,4 @@ Projects:
   * The accuracy of the models gave a 92.50% or 95.83 for MobileNetV2 and InceptionV3 respectively
   * Moddel was evalauted using confusion matrix.
 * Farm disease detection using mobileNetv2 and inception v3 model. 
-* 
-There is a code to create environment on linux and install relevant libraries to support your project. 
+* There is a code to create your linux environment and install relevant libraries to support your project. 
