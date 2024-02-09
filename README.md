@@ -10,4 +10,11 @@ Projects:
   * The accuracy of the models gave a 92.50% or 95.83 for MobileNetV2 and InceptionV3 respectively
   * Moddel was evalauted using confusion matrix.
 * Farm disease detection using mobileNetv2 and inception v3 model. 
-* There is a code to create your linux environment and install relevant libraries to support your project. 
+
+
+
+Additional code:  
+
+- Code to create your linux virtual environment and install relevant libraries to support your project in python notebook.
+- code to import dataset directly from aws (s3 bucket) into python notebook.
+- Python code that allows you create Folders and also Move content into the created folders  
