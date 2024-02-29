@@ -11,8 +11,6 @@ Projects:
   * Moddel was evalauted using confusion matrix.
 * Farm disease detection using mobileNetv2 and inception v3 model. 
 * Encoders and Autocoders
-* OCR
-
 
 Additional code:  
 
