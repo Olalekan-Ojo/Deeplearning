@@ -6,9 +6,9 @@ Projects:
 * Pothole detection using MobileNetV2 and InceptionV3 Deep learning model  
 * Pothole detection using Object detection algorithm such as Yolo v7 and Yolo v8   
   * This is aimed as a solution for autonomous cars in regions of the world with teriible road conditions.   
-  * The model identifies Potholes of 2 categories, potholes with or without water; This will aid the response of the ADS to the pothole
+  * The model identifies Potholes of 2 categories, potholes with or without water; This helps the ADS to navigate the pothole
   * The accuracy of the models gave a 92.50% or 95.83 for MobileNetV2 and InceptionV3 respectively
-  * Moddel was evalauted using confusion matrix.
+  * Model was evalauted using confusion matrix.
 * Farm disease detection using mobileNetv2 and inception v3 model. 
 * Encoders and Autocoders
 
