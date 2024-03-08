@@ -3,7 +3,7 @@ Exploring deep learning architectures, featuring state-of-the-art models such as
   
 Projects:  
 * Tomato Disease detection using VGG16 Deep learning model  
-    * Mobile deployment will be available on playstore soon Codebase is currently in user testing. 
+    * Mobile deployment will be available on playstore soon-Codebase is currently in user testing. 
 
 * Pothole detection using MobileNetV2 and InceptionV3 Deep learning model  
 * Pothole detection using Object detection algorithm such as Yolo v7 and Yolo v8   
@@ -15,7 +15,6 @@ Projects:
 * Encoders and Autocoders
 
 Additional code:  
-
 - Code to create your linux virtual environment and install relevant libraries to support your project in python notebook.
 - code to import dataset directly from aws (s3 bucket) into python notebook.
 - Python code that allows you create Folders and also Move content into the created folders  
