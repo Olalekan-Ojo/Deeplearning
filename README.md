@@ -3,7 +3,8 @@ Exploring deep learning architectures, featuring state-of-the-art models such as
   
 Projects:  
 * Tomato Disease detection using VGG16 Deep learning model  
-    * Mobile deployment will be available on playstore soon-Codebase is currently in user testing. 
+    * Mobile deployment will be available on playstore soon-Codebase is currently in user testing.
+        * Codebase 
     * The creator on playstore
 * Pothole detection using MobileNetV2 and InceptionV3 Deep learning model  
 * Pothole detection using Object detection algorithm such as Yolo v7 and Yolo v8   
