@@ -6,7 +6,6 @@ Projects:
     * Model is Implemented in an Android application for detection of Tomato Disease Detection in Tomatoplants
         * Updated model for Tomato Disease detection model with Inception V3 and Mobile V3 with accuracy of 89%
         * Tomato Detect Rebrand into ACEFOOD and Available oon Playstore in the coming weeks 
-    * 
 * Pothole detection using MobileNetV2 and InceptionV3 Deep learning model  
 * Pothole detection using Object detection algorithm such as Yolo v7 and Yolo v8   
   * This is aimed as a solution for autonomous cars in regions of the world with terible road conditions.   
