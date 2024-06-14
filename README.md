@@ -13,7 +13,6 @@ Projects:
   * The accuracy of the models gave a 92.50% or 95.83 for MobileNetV2 and InceptionV3 respectively
   * Model was evalauted using confusion matrix.
 
-
 * Farm disease detection using mobileNetv2 and inception v3 model. 
 
 Additional code:  
