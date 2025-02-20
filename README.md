@@ -21,5 +21,3 @@ Additional code:
 - Python code that allows you create Folders and also Move content into the created folders
 
 
-
-
